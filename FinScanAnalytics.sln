@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinScan.API", "FinScan.API\FinScan.API.csproj", "{5494C53D-1E46-4661-8EFF-529B52189046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinScan.Logic", "FinScan.Logic\FinScan.Logic.csproj", "{252B480F-1516-43A8-9D4F-99C5EEB0063A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDGARLive", "EDGARLive\EDGARLive.csproj", "{4AE762B7-5C43-464B-AC64-9A12C7A3E386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDGARHistorical", "EDGARHistorical\EDGARHistorical.csproj", "{F985D95F-DB79-4286-8A53-CF09A1C5EA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSParse", "RSSParse\RSSParse.csproj", "{B9DF7A27-6DC8-4F5A-901B-B4071CEF9E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinScan.Model", "FinScan.Model\FinScan.Model.csproj", "{C0BA5ACF-4759-4B1C-BA9C-4AECEA2351BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5494C53D-1E46-4661-8EFF-529B52189046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5494C53D-1E46-4661-8EFF-529B52189046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5494C53D-1E46-4661-8EFF-529B52189046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5494C53D-1E46-4661-8EFF-529B52189046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252B480F-1516-43A8-9D4F-99C5EEB0063A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252B480F-1516-43A8-9D4F-99C5EEB0063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252B480F-1516-43A8-9D4F-99C5EEB0063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252B480F-1516-43A8-9D4F-99C5EEB0063A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE762B7-5C43-464B-AC64-9A12C7A3E386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE762B7-5C43-464B-AC64-9A12C7A3E386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE762B7-5C43-464B-AC64-9A12C7A3E386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE762B7-5C43-464B-AC64-9A12C7A3E386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F985D95F-DB79-4286-8A53-CF09A1C5EA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F985D95F-DB79-4286-8A53-CF09A1C5EA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F985D95F-DB79-4286-8A53-CF09A1C5EA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F985D95F-DB79-4286-8A53-CF09A1C5EA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DF7A27-6DC8-4F5A-901B-B4071CEF9E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DF7A27-6DC8-4F5A-901B-B4071CEF9E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DF7A27-6DC8-4F5A-901B-B4071CEF9E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DF7A27-6DC8-4F5A-901B-B4071CEF9E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BA5ACF-4759-4B1C-BA9C-4AECEA2351BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BA5ACF-4759-4B1C-BA9C-4AECEA2351BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BA5ACF-4759-4B1C-BA9C-4AECEA2351BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BA5ACF-4759-4B1C-BA9C-4AECEA2351BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC12697-FDD1-4719-8921-7DE916C41FC8}
+	EndGlobalSection
+EndGlobal
